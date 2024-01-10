@@ -1,2 +1,2 @@
 # treinamentoPostgreSQLEstagio
-Exercícios de querys de Postgree para o treinamento do estágio
+Exercícios de querys de Postgresql para o treinamento do estágio
